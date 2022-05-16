@@ -18,14 +18,14 @@
   highlight: 1
   news2: 
 
-- title: "OCSANA+: Optimal Control and Simulation of Signaling Networks from Network Analysis"
+- title: "OCSANA+ Optimal Control and Simulation of Signaling Networks from Network Analysis"
   image: TBG_SL.png
   description: OCSANA+ is a Cytoscape app for identifying nodes to drive the system toward a desired long-term behavior, prioritizing combinations of interventions in large-scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure.
   authors: Lauren Marazzi, Andrew Gainer-Dewar, Paola Vera-Licona
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  arXiv:2107.14716 (2021)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Measuring local moiré lattice heterogeneity of twisted bilayer graphene"
