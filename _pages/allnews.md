@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Vera-Licona Lab at the Center for Cell Analysis and Modeling at UConn Health."
 sitemap: false
 permalink: /allnews.html
 ---

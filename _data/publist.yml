@@ -1,17 +1,27 @@
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "NETISCE: A Network-Based Tool for Cell Fate Reprogramming"
+  image: netisce2.png
+  description: We present NETISCE, a novel computational tool for identifying cell fate reprogramming targets in static networks. In combination with machine learning algorithms, NETISCE estimates the attractor landscape and predicts reprogramming targets using Signal Flow Analysis and Feedback Vertex Set Control, respectively.
+  authors: Lauren Marazzi, Milan Shah, Shreedula Balakrishnan, Ananya Patil, Paola Vera-Licona.
   link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
+    url: https://www.biorxiv.org/content/10.1101/2021.12.30.474582v2
+    display: npj Systems Biology and Applications (2022). In print
   highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+  news2: See also [bioRxiv:10.1101/2021.12.30.474582](https://www.biorxiv.org/content/10.1101/2021.12.30.474582v2) 
 
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
+- title: "Macrophage mediated recognition and clearance of Borrelia burgdorferi elicits MyD88-dependent and -independent phagosomal signals that contribute to phagocytosis and inflammation"
+  image: myd88.png
+  description: A first paper from our collaboration with the <a href='https://health.uconn.edu/spirochete-lab/salazar-laboratory/research/'>Salazar Lab</a>. We were in charge of the data-driven reconstruction and analysis of the signaling networks.
+  authors: Sarah J. Benjamin, Kelly L. Hawley, Paola Vera-Licona1, Carson J. La Vake, Jorge L. Cervantes, Yijun Ruan, Justin D. Radolf and Juan C. Salazar.
+  link:
+    url: https://link.springer.com/article/10.1186/s12865-021-00418-8?fbclid=IwAR0PpiCoK8_PPrb-HVKZ0F1F6tXmAOCJhQxJq2dIccVnhDWynHEzdM_MpvE
+    display: BMC Immunology volume 22, Article number 32 (2021)
+  highlight: 1
+  news2: 
+
+- title: "OCSANA+: Optimal Control and Simulation of Signaling Networks from Network Analysis"
   image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  description: OCSANA+ is a Cytoscape app for identifying nodes to drive the system toward a desired long-term behavior, prioritizing combinations of interventions in large-scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure.
+  authors: Lauren Marazzi, Andrew Gainer-Dewar, Paola Vera-Licona
   link:
     url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
     display:  arXiv:2107.14716 (2021)
@@ -46,17 +56,6 @@
     display: npj Quantum Materials 6, 7 (2021)
   highlight: 0
   news2:
-
-
-- title: "Observation of flat bands in twisted bilayer graphene"
-  image: TBG_ARPES.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
-  authors: S Lisi*, X Lu*, T Benschop*, TA de Jong*, Petr S, JR Duran, F Margot, I Cucchi, E Cappelli, A Hunter, A Tamai, V Kandyba, A Giampietri, A Barinov, J Jobst, V Stalman, M Leeuwenhoek, K Watanabe, T Taniguchi, L Rademaker, SJ van der Molen, MP Allan, DK Efetov, F Baumberger
-  link:
-    url: https://www.nature.com/articles/s41567-020-01041-x
-    display:  Nature Physics 17, 198 (2020)
-  highlight: 1
-  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
 - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
   image: Direct.png
