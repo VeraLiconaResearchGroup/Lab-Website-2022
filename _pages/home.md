@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<p align="justify">Our research is at the intersection of computational systems biology and systems medicine, mathematical biology, and bioinformatics. We work on the design, software development, and application of mathematical algorithms to model, simulate, and control biological systems. We place a particular emphasis on methods combining multi-omics profiles for data-driven gene regulatory networks and multi-scale Boolean mathematical modeling construction, analysis, and control.</p>
+<p align="justify">At the intersection of computational systems biology, systems medicine, mathematical biology, and bioinformatics, our research lab is dedicated to developing and applying mathematical algorithms for both modeling and reprogramming of biological systems. Central to our work is the integration of multiomics data, emphasizing data-driven methodologies.</p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -16,6 +16,8 @@ permalink: /
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+
     </ol>
 
     <!-- Items -->
@@ -28,7 +30,10 @@ permalink: /
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NetValidation.png" alt="Slide 3" />
-        </div>    
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Example.jpeg" alt="Slide 4" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -40,7 +45,7 @@ permalink: /
   </a>
 </div>
 
-<p align="justify">In molecular biology and systems genomics, we are interested in developing and applying tools for cell fate reprogramming. The application areas we are focused on include Immunology, Aging, and Cancer research (see [Research](research)).</p>
+<p align="justify"> Past and current collaborative application areas include cancer research, stem cell research, immunology and biogerontology (see [Research](research)).</p>
 
 We are located at the Center for Quantitative Medicine, which is part of the [Center for Cell Analysis & Modeling](https://health.uconn.edu/cell-analysis-modeling/).
 

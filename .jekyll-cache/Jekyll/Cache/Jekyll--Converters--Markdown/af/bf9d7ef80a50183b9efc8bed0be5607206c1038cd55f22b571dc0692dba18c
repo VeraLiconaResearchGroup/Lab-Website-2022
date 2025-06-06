@@ -1,0 +1,184 @@
+I"�><h1 id="publications">Publications</h1>
+
+<h2 id="group-highlights">Group highlights</h2>
+
+<p>(For a full list of publications see <a href="#full-list-of-publications">below</a> or go to <a href="https://scholar.google.com/citations?user=A2m_0J0AAAAJ&amp;hl=en">Google Scholar</a>.</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>NETISCE: A Network-Based Tool for Cell Fate Reprogramming</pubtit>
+      <p><img src="/images/pubpic/netisce2.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We present NETISCE, a novel computational tool for identifying cell fate reprogramming targets in static networks. In combination with machine learning algorithms, NETISCE estimates the attractor landscape and predicts reprogramming targets using Signal Flow Analysis and Feedback Vertex Set Control, respectively.</p>
+      <p><em>Lauren Marazzi, Milan Shah, Shreedula Balakrishnan, Ananya Patil, Paola Vera-Licona</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41540-022-00231-y">npj Systems Biology and Applications volume 8, Article number 21 (2022)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> NETISCE software tool can be found <a href="http://veraliconalab.org/Netisce/"> here</a>.</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Macrophage mediated recognition and clearance of Borrelia burgdorferi elicits MyD88-dependent and -independent phagosomal signals that contribute to phagocytosis and inflammation</pubtit>
+      <p><img src="/images/pubpic/myd88.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>First paper from our collaboration with the <a href="https://health.uconn.edu/spirochete-lab/salazar-laboratory/research/">Salazar Lab</a>. We were in charge of the data-driven reconstruction and analysis of the signaling networks.</p>
+      <p><em>Sarah J. Benjamin, Kelly L. Hawley, Paola Vera-Licona, Carson J. La Vake, Jorge L. Cervantes, Yijun Ruan, Justin D. Radolf and Juan C. Salazar</em></p>
+      <p><strong><a href="https://link.springer.com/article/10.1186/s12865-021-00418-8?fbclid=IwAR0PpiCoK8_PPrb-HVKZ0F1F6tXmAOCJhQxJq2dIccVnhDWynHEzdM_MpvE">BMC Immunology volume 22, Article number 32 (2021)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>OCSANA+ Optimal Control and Simulation of Signaling Networks from Network Analysis</pubtit>
+      <p><img src="/images/pubpic/ocsanaplus2.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>OCSANA+ is a Cytoscape app for identifying nodes to drive the system toward a desired long-term behavior, prioritizing combinations of interventions in large-scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure.</p>
+      <p><em>Lauren Marazzi, Andrew Gainer-Dewar, Paola Vera-Licona</em></p>
+      <p><strong><a href="https://academic.oup.com/bioinformatics/article/36/19/4960/5872521?login=false">Bioinformatics, Volume 36, Issue 19 (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> OCSANA+ software tool can be found <a href="http://veraliconalab.org/OCSANA-Plus/"> here</a>.</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Identification of a nerve-associated, lung-resident interstitial macrophage subset with distinct localization and immunoregulatory properties</pubtit>
+      <p><img src="/images/pubpic/lungmacs.jpeg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Our second paper from our collaboration with the <a href="http://khannalab.weebly.com/">Khanna Lab</a>. We were in charge of the RNA-sequencing data analysis.</p>
+      <p><em>Basak B Ural,Stephen T Yeung, Payal Damani-Yokota, Joseph C Devlin, Maren de Vries, Paola Vera-Licona, Tasleem Samji, Catherine M Sawai, Geunhyo Jang, Oriana A Perez, Quynh Pham, Leigh Maher Png Loke, Meike Dittmann, Boris Reizis and Kamal M. Khanna</em></p>
+      <p><strong><a href="https://www.science.org/doi/abs/10.1126/sciimmunol.aax8756">Science Immunology, Vol 5, Issue 45 (2020)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> News coverage by <a href="https://www.scientificamerican.com/article/could-newly-found-peacekeeping-cells-be-a-weapon-against-covid-19/"> Scientific American</a>, <a href="https://www.aaas.org/news/newly-described-cells-may-regulate-inflammation-viral-lung-infections"> AAAS</a>, <a href="https://www.technologynetworks.com/cell-science/news/new-immune-cell-on-the-block-during-viral-lung-infections-332670"> Technology Networks</a>, <a href="https://www.inverse.com/mind-body/a-new-understanding-of-lung-cells-could-lead-to-better-covid19-treatment"> Inverse</a>, <a href="https://www.pourlascience.fr/sd/medecine/des-cellules-casques-bleus-contre-le-covid-19-19056.php"> Pour La Science</a>, and<a href="https://www.larecherche.fr/covid-19-biologie-m%C3%A9decine/%C2%AB-la-radioth%C3%A9rapie-%C3%A0-faible-dose-am%C3%A9liorerait-l%E2%80%99%C3%A9tat-des-patients"> La Recherche</a>. Selected in the <strong>Top 10 Health Innovations of 2020</strong> by <a href="https://health-innovations.org/2021/01/11/the-top-10-healthinnovations-of-2020/"> Health Innovations </a></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Benchmarking time-series data discretization on inference methods</pubtit>
+      <p><img src="/images/pubpic/pandapas.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>In this paper we introduce DiscreeTest, a two-step evaluation metric for ranking discretization methods for time-series data. To our knowledge, this is the first time that a method for benchmarking and selecting an appropriate discretization method for time-series data has been proposed.</p>
+      <p><em>Yuezhe Li, Tiffany Jann, Paola Vera-Licona</em></p>
+      <p><strong><a href="https://academic.oup.com/bioinformatics/article/35/17/3102/5292317?login=true">Bioinformatics, Volume 35, Issue 17 (2019)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> DiscreeTest code can be found <a href="https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations"> here</a>.</p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Chromatin interaction networks revealed unique connectivity patterns of broad H3K4me3 domains and super enhancers in 3D chromatin</pubtit>
+      <p><img src="/images/pubpic/asa2.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>In this paper from our collaboration with the <a href="https://www.ucarlab.com/">Ucar Lab</a>, we studied chromatin interaction networks. We contributed to this paper by applying the less commonly used network theory concepts of graphlets and their orbits to describe and characterize the connectivity patterns of nodes in chromatin interaction networks.</p>
+      <p><em>Asa Thibodeau, Eladio J Márquez, Dong-Guk Shin, Paola Vera-Licona, Duygu Ucar</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41598-017-14389-7">Scientific Reports volume 7, Article number 14466 (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> This paper was <strong>Selected Editors Choice, Epigenetics</strong></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>CD169+ macrophages orchestrate innate immune responses by regulating bacterial localization in the spleen</pubtit>
+      <p><img src="/images/pubpic/sciimmunol2017.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Our first paper from our collaboration with the <a href="http://khannalab.weebly.com/">Khanna Lab</a>. We were in charge of the RNA-sequencing data analysis.</p>
+      <p><em>Oriana Perez, Stephen Yeung, Paola Vera-Licona, Pablo Romagnoli, Tasleem Samji, Basak B Ural, Leigh Maher, Masato Tanaka, Kamal M Khanna</em></p>
+      <p><strong><a href="https://www.science.org/doi/abs/10.1126/sciimmunol.aah5520">Science Immunology, Vol 2, Issue 16 (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> News coverage by <a href="https://www.scientificamerican.com/article/could-newly-found-peacekeeping-cells-be-a-weapon-against-covid-19/"> Scientific American</a> and <a href="https://www.pourlascience.fr/sd/medecine/des-cellules-casques-bleus-contre-le-covid-19-19056.php">Pour la Science </a>. <strong>Article featured on the magazine cover</strong></p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>The minimal hitting set generation problem: algorithms and computation</pubtit>
+      <p><img src="/images/pubpic/mhs3.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>Finding inclusion-minimal hitting sets (MHSs) for a given family of sets is a fundamental combinatorial problem with applications in domains as diverse as Boolean algebra, computational biology, and data mining. In this paper we survey and benchmark several algorithms for MHS generation from across a variety of domains.  We find that the fastest algorithms in practice are not those with the tightest complexity bounds or those most commonly used in applications.</p>
+      <p><em>Andrew Gainer-Dewar, Paola Vera-Licona</em></p>
+      <p><strong><a href="https://epubs.siam.org/doi/abs/10.1137/15M1055024">SIAM Journal on Discrete Mathematics Vol. 31 (2017)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>QuIN: a web server for querying and visualizing chromatin interaction networks</pubtit>
+      <p><img src="/images/pubpic/quin.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>First paper from our collaboration with the <a href="https://www.ucarlab.com/">Ucar Lab</a> to develop a tool for querying and visualizing chromatin interaction networks. This is the first publicly available software for analysis of chromatin interaction networks that is web-accessible and easy to use, making it suitable for molecular biologists with no programming experience.</p>
+      <p><em>Asa Thibodeau, Eladio J Márquez, Oscar Luo, Yijun Ruan, Francesca Menghi, Dong-Guk Shin, Michael L Stitzel, Paola Vera-Licona, Duygu Ucar</em></p>
+      <p><strong><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004809">PLoS Comput Biol 12, 6 (2016)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>An Algebra-Based Method for Inferring Gene Regulatory Networks</pubtit>
+      <p><img src="/images/pubpic/IRMA.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>In this paper we developed a novel reverse-engineering method for inferring gene regulatory networks within the Boolean modeling framework. This method is innovative in that the inference problem is framed in computational algebra terms to enable precise algebraic characterization of the models search space.</p>
+      <p><em>Paola Vera-Licona, Abdul Jarrah, Luis D Garcia-Puente, John McGee, Reinhard Laubenbacher</em></p>
+      <p><strong><a href="https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf">BMC Systems Biology volume 8, Article number 37 (2014)</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> This paper was <strong>Selected as Editors Picks</strong></p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="list-of-publications">List of publications</h2>
+
+<p>NETISCE: A Network-Based Tool for Cell Fate Reprogramming <br />
+  <em>Lauren Marazzi, Milan Shah, Shreedula Balakrishnan, Ananya Patil, Paola Vera-Licona </em><br /><a href="https://www.nature.com/articles/s41540-022-00231-y">npj Systems Biology and Applications volume 8, Article number 21 (2022)</a></p>
+
+<p>Macrophage mediated recognition and clearance of Borrelia burgdorferi elicits MyD88-dependent and -independent phagosomal signals that contribute to phagocytosis and inflammation <br />
+  <em>Sarah J. Benjamin, Kelly L. Hawley, Paola Vera-Licona, Carson J. La Vake, Jorge L. Cervantes, Yijun Ruan, Justin D. Radolf and Juan C. Salazar </em><br /><a href="https://link.springer.com/article/10.1186/s12865-021-00418-8?fbclid=IwAR0PpiCoK8_PPrb-HVKZ0F1F6tXmAOCJhQxJq2dIccVnhDWynHEzdM_MpvE">BMC Immunology volume 22, Article number 32 (2021)</a></p>
+
+<p>OCSANA+ Optimal Control and Simulation of Signaling Networks from Network Analysis <br />
+  <em>Lauren Marazzi, Andrew Gainer-Dewar, Paola Vera-Licona </em><br /><a href="https://academic.oup.com/bioinformatics/article/36/19/4960/5872521?login=false">Bioinformatics, Volume 36, Issue 19 (2020)</a></p>
+
+<p>Identification of a nerve-associated, lung-resident interstitial macrophage subset with distinct localization and immunoregulatory properties <br />
+  <em>Basak B Ural,Stephen T Yeung, Payal Damani-Yokota, Joseph C Devlin, Maren de Vries, Paola Vera-Licona, Tasleem Samji, Catherine M Sawai, Geunhyo Jang, Oriana A Perez, Quynh Pham, Leigh Maher Png Loke, Meike Dittmann, Boris Reizis and Kamal M. Khanna </em><br /><a href="https://www.science.org/doi/abs/10.1126/sciimmunol.aax8756">Science Immunology, Vol 5, Issue 45 (2020)</a></p>
+
+<p>Benchmarking time-series data discretization on inference methods <br />
+  <em>Yuezhe Li, Tiffany Jann, Paola Vera-Licona </em><br /><a href="https://academic.oup.com/bioinformatics/article/35/17/3102/5292317?login=true">Bioinformatics, Volume 35, Issue 17 (2019)</a></p>
+
+<p>Chromatin interaction networks revealed unique connectivity patterns of broad H3K4me3 domains and super enhancers in 3D chromatin <br />
+  <em>Asa Thibodeau, Eladio J Márquez, Dong-Guk Shin, Paola Vera-Licona, Duygu Ucar </em><br /><a href="https://www.nature.com/articles/s41598-017-14389-7">Scientific Reports volume 7, Article number 14466 (2017)</a></p>
+
+<p>CD169+ macrophages orchestrate innate immune responses by regulating bacterial localization in the spleen <br />
+  <em>Oriana Perez, Stephen Yeung, Paola Vera-Licona, Pablo Romagnoli, Tasleem Samji, Basak B Ural, Leigh Maher, Masato Tanaka, Kamal M Khanna </em><br /><a href="https://www.science.org/doi/abs/10.1126/sciimmunol.aah5520">Science Immunology, Vol 2, Issue 16 (2017)</a></p>
+
+<p>The minimal hitting set generation problem: algorithms and computation <br />
+  <em>Andrew Gainer-Dewar, Paola Vera-Licona </em><br /><a href="https://epubs.siam.org/doi/abs/10.1137/15M1055024">SIAM Journal on Discrete Mathematics Vol. 31 (2017)</a></p>
+
+<p>QuIN: a web server for querying and visualizing chromatin interaction networks <br />
+  <em>Asa Thibodeau, Eladio J Márquez, Oscar Luo, Yijun Ruan, Francesca Menghi, Dong-Guk Shin, Michael L Stitzel, Paola Vera-Licona, Duygu Ucar </em><br /><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004809">PLoS Comput Biol 12, 6 (2016)</a></p>
+
+<p>AlgoRun: a Docker-based packaging system for platform-agnostic implemented algorithms <br />
+  <em>Abdelrahman Hosny, Paola Vera-Licona, Reinhard Laubenbacher, Thibauld Favre </em><br /><a href="https://academic.oup.com/bioinformatics/article/32/15/2396/1742878?login=true">Bioinformatics, Volume 32, Issue 15 (2016)</a></p>
+
+<p>An Algebra-Based Method for Inferring Gene Regulatory Networks <br />
+  <em>Paola Vera-Licona, Abdul Jarrah, Luis D Garcia-Puente, John McGee, Reinhard Laubenbacher </em><br /><a href="https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf">BMC Systems Biology volume 8, Article number 37 (2014)</a></p>
+
+:ET

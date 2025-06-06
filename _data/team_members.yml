@@ -17,13 +17,6 @@
   number_educ: 1
   education1: BSc, Bioinformatics, Connecticut College
 
-- name: Zuizz Saeed
-  photo: Zuizz.jpg
-  info: Undergraduate, Summer Intern (2022 & 2020) 
-  email: zuizz.msaeed@gmail.com
-  number_educ: 1
-  education1: Undergraduate Student, Boston University since 2021
-
 - name: Alex Jones
   photo: Alex.jpeg
   info: Undergraduate, Summer Intern (2022)
@@ -32,8 +25,22 @@
   education1: Undergraduate Student, University of Connecticut since 2020
 
 - name: Ananya Patil
-  photo: Ananya.jpg
+  photo: Ananya1.jpg
   info: Undergraduate, Summer Intern (2022 & 2021)
   email: WTromp@physics.leidenuniv.nl
   number_educ: 1
   education1: Undergraduate Student, Northeastern University since 2022
+
+- name: Zuizz Saeed
+  photo: Zuizz.jpg
+  info: Undergraduate, Summer Intern (2022 & 2020) 
+  email: zuizz.msaeed@gmail.com
+  number_educ: 1
+  education1: Undergraduate Student, Boston University since 2021
+  
+- name: Anna Kopec
+  photo: Kopec.jpg
+  info: High school, Summer Intern (2022)
+  email: 
+  number_educ: 1
+  education1: Immaculate High School

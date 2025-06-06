@@ -8,22 +8,15 @@ permalink: /research/
 
 # Research
 
-Our research is at the intersection of computational systems biology and systems medicine, mathematical biology, and bioinformatics. We work on the design, software development, and application of mathematical algorithms to model, simulate, and control biological systems. We place a particular emphasis on methods combining multi-omics profiles for data-driven gene regulatory networks and multi-scale Boolean mathematical modeling construction, analysis, and control.
+Our research is at the intersection of computational systems biology, systems medicine, mathematical biology, and bioinformatics. We delve into the design, software implementation, and application of mathematical algorithms that enable us to model, simulate, and strategically control or reprogram biological systems. Our approaches put an emphasis on data-driven approaches and the integration of multi-modal omics data profiles. Key areas of our research focus encompass:
 
-**Development and Applicaton of Network Inference Methods**
-Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include: (1) Data discretization, (2) Static Network and Dynamical Model’s Inference, (3) Validation and Benchmarking of Reverse-engineering Algorithms, (4) Model Analysis and Simulation.
+**Development and Application of Methods to Infer Gene Regulatory and Signaling Networks.**
+Much of our research work is related to the development and application of algorithms for data-driven inference (reverse-engineering) of biological systems, with an emphasis on discrete dynamical models such as Boolean networks. These undertakings include: (1) Data discretization, (2) Static Network Inference, (3) Dynamical Model’s Inference, (4) Model Analysis and Simulation and, (5) Model Verification.
 
-**Structure-Based Control of Dynamical Systems**
-Network control has been originally developed as part of systems and control theory. While the methods developed in this area have been applied successfully to many engineered and natural systems, several factors have limited its application to large complex biological systems such as cellular signaling networks. In this project we aim at developing and applying structure-based control methods for biological systems with a particular interest on intracellular signalign networks.
+**Development and Application of Algorithms to Identify and Prioritize Cell Reprogramming Targets.**
+At our laboratory, we leverage cutting-edge computational techniques to identify and prioritize targets for cellular reprogramming. This transformative approach holds immense potential for applications in regenerative medicine and cancer research. Cell reprogramming is a multifaceted process, not merely governed by a cell's gene regulatory topology, but also profoundly influenced by the dynamic interplay within the cell's system and its microenvironment. In response to this intricate landscape, we integrate principles from dynamical systems and control theory, aided by machine learning methods for prioritization studies. Our collaborative endeavors span a range of fields, including cancer research, stem cell biology, immunology, and biogerontology.
 
+**Cancer Reversion: Computational Systems Biology Approaches.**
+Cancer reversion is the process by which tumorigenic cells lose their malignant phenotype. In this pivotal project, our aim is to design and apply innovative computational tools, coupled with mathematical modeling, to unearth the molecular architects of cancer reversion, decode their operational mechanisms, and chart a path for their clinical deployment. One of our visionary objectives is to curate a comprehensive catalog for reversion potential of various cancer cells, offering an invaluable resource for ongoing and future research.
 
-**Tissue-resident Macrophage Mechanisms for Pathogen Clearance**
-The importance of tissue-resident macrophages for tissue surveillance and homeostasis is emerging. We want to gain an understading to ultimately have the ability to reprogram the mechanisms of tissue-resident macrophages for pathogen clearance and regulation of related mechanisms such as inflammation. We are collaborating with Dr. Kamal Khanna with two tissue-resident macrophage populations.
-
-**MyD88-dependent and -independent phagosomal signals in Macrophage mediated recognition and clearance of Borrelia burgdorferi (Lyme disease spirochete)
-Macrophages play prominent roles in recognition and clearance of pathogens. It has been well established that TLR/MyD88 signaling enhances phagocytic efficiency in these cells. This project seeks to better understand the mechanisms behind this phagocytic effect.
-
-**Cancer Reversion: Computational Systems Biology Approaches**
-Cancer reversion is the process by which tumorigenic cells lose their malignant phenotype. The objective of this project is to develop and apply novel computational systems biology tools and mathematical modeling to identify molecular drivers of cancer reversion, their mechanisms of action and their clinical application.
-
-### ... and more.
+HELLO

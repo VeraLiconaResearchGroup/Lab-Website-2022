@@ -1,28 +1,49 @@
 ---
 title: "Vera-Licona Lab - Software"
-layout: textlay
-excerpt: "Vera-Licona Lab -- Software"
+layout: gridlay
+excerpt: "Vera-Licona Lab -- Software."
 sitemap: false
 permalink: /software/
 ---
 
+
 # Software
 
-**OCSANA+**
-OCSANA+: Optimal Control and Simulation of Signaling Networks from Network Analysis
-OCSANA
+{% assign number_printed = 0 %}
+{% for software in site.data.softlist %}
 
-**OCSANA**
-OCSANA: Optimal Combination of Interventions from Network Analysis
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if software.highlight == 1 %}
 
-**DiscreeTest**
-DiscreeTest is a two-step evaluation method for ranking discretization methods for time-series data
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
-**AlgoRun**
-AlgoRun is a dedicated packaging system for implemented algorithms, using Docker technology. Implemented algorithms, packaged with AlgoRun, can be executed through a user-friendly interface directly from a web browser or via a standardized RESTful web API to allow easy integration into more complex workflows.
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ software.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/softpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ software.description }}</p>
+  <p>{{ software.authors }}</p>
+  <p><a href="{{ software.link.url }}">{{ software.link.display }}</a></p>
+  <p class="well"> {{ software.news1 }}</p>
+  <p class="well"> {{ software.news2 }}</p>
+ </div>
+</div>
 
-**REACT**
-REACT: Reverse Engineering Algorithm with Evolutionary Computation Tools
+{% assign number_printed = number_printed | plus: 1 %}
 
-**QuIN**
-QuIN is a web server tool for querying and visualizing chromatin interaction networks.
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+

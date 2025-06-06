@@ -1,0 +1,83 @@
+- title: "NETISCE: A Network-Based Tool for Cell Fate Reprogramming"
+  image: netisce.png
+  description: NETISCE is a computational tool for identifying cell fate reprogramming targets in static networks. In combination with machine learning algorithms, NETISCE estimates the attractor landscape and predicts reprogramming targets using Signal Flow Analysis and Feedback Vertex Set Control, respectively.
+  authors: 
+  link:
+    url: https://www.nature.com/articles/s41540-022-00231-y
+    display: npj Systems Biology and Applications volume 8, Article number 21 (2022)
+  highlight: 1
+  news1: The installation, tutorials, information for installing the Galaxy Project version of NETISCE, and walkthroughs for reproducing our analysis results are available at [http://veraliconalab.org/Netisce/](http://veraliconalab.org/Netisce/) 
+  news2: The NETISCE Nextflow pipeline version, the Docker image documentation, and data are available [Github Repository](https://github.com/VeraLiconaResearchGroup/Netisce)
+
+- title: "OCSANA+ Optimal Control and Simulation of Signaling Networks from Network Analysis"
+  image: ocsanaplus.png
+  description: OCSANA+ is a Cytoscape app for identifying nodes to drive the system toward a desired long-term behavior, prioritizing combinations of interventions in large-scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure.
+  authors: 
+  link:
+    url: https://academic.oup.com/bioinformatics/article/36/19/4960/5872521?login=false
+    display:  Bioinformatics, Volume 36, Issue 19 (2020)
+  highlight: 1
+  news1: The installation, tutorials, and a walkthrough example for reproducing our analysis results are available at Website [http://veraliconalab.org/OCSANA-Plus/](http://veraliconalab.org/OCSANA-Plus/) 
+  news2: Access OCSANA+ from [the Cytoscape App store](https://apps.cytoscape.org/apps/ocsana). Access the source code in our [Github Repository](https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode)  
+  
+- title: "DiscreeTest"
+  image: DNA.png
+  description: DiscreeTest is a two-step evaluation metric for ranking discretization methods for time-series data.
+  authors: 
+  link:
+    url: https://academic.oup.com/bioinformatics/article/35/17/3102/5292317?login=true
+    display:  Bioinformatics, Vol. 35, Issue 17 (2019)
+  highlight: 1
+  news1: Source code and data sets and computations to reproduce our analysis can be found in our [Github Repository](https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations)  
+
+- title: "Minimal Hitting Set Generation"
+  image: DNA.png
+  authors: 
+  description: Software implementation of several algorithms to find inclusion-minimal hitting sets (MHSs) for a given family of sets.
+  link:
+    url: https://epubs.siam.org/doi/abs/10.1137/15M1055024
+    display:  SIAM Journal on Discrete Mathematics Vol. 31 (2017)
+  highlight: 1
+  news1: The source code of a collection of implemented algorithms for solving the MHS generation problem, easy-to-use AlgoRun containers for these algorithms, and data sets and computations to reproduce our analysis can be found in our [Github Repository](https://github.com/VeraLiconaResearchGroup/MHSGenerationAlgorithms)
+
+- title: "QuIN: a web server for querying and visualizing chromatin interaction networks"
+  image: asa2.png
+  description: This tool was created in collaboration with the <a href='https://www.ucarlab.com/'>Ucar Lab</a>. QuIN is a tool for querying and visualizing chromatin interaction networks. This is the first publicly available software for analysis of chromatin interaction networks that is web-accessible and easy to use, making it suitable for molecular biologists with no programming experience. 
+  authors: 
+  link:
+    url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004809
+    display:  PLoS Comput Biol 12, 6 (2016)
+  highlight: 1
+  news1: Source code is available at [Ucar Lab Github Repository](https://github.com/UcarLab/QuIN/)
+
+- title: "AlgoRun: a Docker-based packaging system for platform-agnostic implemented algorithms"
+  image: algorun.png
+  description: AlgoRun is a useful Docker-based software tool for the scientific community developing software in their research endeavors that enables an easy way to prepare software tools with a user-friendly execution, cross-platform portability, and simple distribution. This tool was developed in collaboration with the <a href='https://systemsmedicine.pulmonary.medicine.ufl.edu/profile/laubenbacher-reinhard/'> Laubenbacher Lab</a>  and <a href='http://thibauld.com/'>Thibauld Favre</a>.
+  authors:
+  link:
+    url: https://academic.oup.com/bioinformatics/article/32/15/2396/1742878?login=true
+    display:  Bioinformatics, Volume 32, Issue 15 (2016)
+  highlight: 1
+  news1: The AlgoRun website with documentation and a collection of algorithms can be accessed at [http://algorun.org/](http://algorun.org/)
+  news2: Source code is available in the [Github Repository](https://github.com/algorun)
+
+- title: "An Algebra-Based Method for Inferring Gene Regulatory Networks"
+  image: DNA.png
+  description: A reverse-engineering method for inferring gene regulatory networks within the Boolean modeling framework. This method is innovative in that the inference problem is framed in computational algebra terms to enable precise algebraic characterization of the models search space.
+  authors: 
+  link:
+    url: https://iopscience.iop.org/article/10.1088/1361-6528/ab1c7f/pdf
+    display: BMC Systems Biology volume 8, Article number 37 (2014)
+  highlight: 1
+  news1: Source code is available in the [Github Repository](https://github.com/veralicona/REACT)
+  
+- title: "OCSANA (Optimal Combinations of Interventions from Network Analysis)"
+  image: ocsana.png
+  description: OCSANA is a software designed to identify and prioritize optimal and minimal combinations of intreventions to disrupt the paths between source nodes and target nodes. The tool is part of [BiNoM 2.8](https://binom.curie.fr/). OCSANA was developed while in the <a href="https://sysbio.curie.fr/index.html">Systems Biology of Cancer Lab </a> at Institut Curie.
+  authors: 
+  link:
+    url: https://academic.oup.com/bioinformatics/article/29/12/1571/293094?login=true
+    display: Bioinformatics, Volume 29, Issue 12, 15 (2013)
+  highlight: 1
+  news1: The installation, tutorials, and a walkthrough example for reproducing our analysis results are available at the website [http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html](http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html) 
+  news2: Source code is available in the [Github Repository](https://github.com/veralicona/REACT)

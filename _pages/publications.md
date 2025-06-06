@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=A2m_0J0AAAAJ&hl=en).
+(For a larger list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=A2m_0J0AAAAJ&hl=en).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -53,7 +53,7 @@ permalink: /publications/
 
 
 
-## Full List of publications
+## List of publications
 
 {% for publi in site.data.publist %}
 

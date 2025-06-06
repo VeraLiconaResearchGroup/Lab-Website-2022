@@ -1,0 +1,15 @@
+I"u<h1 id="research">Research</h1>
+
+<p>Our research is at the intersection of computational systems biology, systems medicine, mathematical biology, and bioinformatics. We work on the design, software development, and application of mathematical algorithms to model, simulate, and control/reprogram biological systems. We place a particular emphasis on methods that integrate multiomics data profiles. The mains research axis include:</p>
+
+<p><strong>Development and Application of Network Inference Methods</strong>
+Much of our research work is related to the development and application of algorithms for the data-driven inference (reverse-engineering) of biological systems, with an emphasis on discrete dynamical models such as Boolean networks. These undertakings include: (1) Data discretization, (2) Static Network and Dynamical Model’s Inference, (3) Validation and Benchmarking of Reverse-engineering Algorithms, (4) Model Analysis and Simulation.</p>
+
+<p><strong>Development and Application of Algorithms to Identify Cell Reprogramming Targets</strong>
+In our research lab, we are developing and applying cutting-edge computational methods to identify cell reprogramming targets, which have critical implications for instance in reregenerative medicine and cancer research. Cellular reprogramming holds the promise to transform a cell’s state into a target state, but the challenge lies in identifying the right reprogramming targets, especially in systems with sparse data or lacking dynamic characterization. Our commitment is to equip both experimental and computational biologists with tools that pinpoint the precise regions of biological systems that are pivotal for successful cell reprogramming.</p>
+
+<p><strong>Cancer Reversion: Computational Systems Biology Approaches</strong>
+Cancer reversion is the process by which tumorigenic cells lose their malignant phenotype. The objective of this project is to develop and apply novel computational systems biology tools and mathematical modeling to identify molecular drivers of cancer reversion, their mechanisms of action and their clinical application.</p>
+
+<h3 id="-and-more">… and more.</h3>
+:ET
