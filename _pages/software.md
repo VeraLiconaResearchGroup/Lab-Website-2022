@@ -22,7 +22,7 @@ permalink: /software/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ software.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/softpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="/images/softpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ software.description }}</p>
   <p>{{ software.authors }}</p>
   <p><a href="{{ software.link.url }}">{{ software.link.display }}</a></p>

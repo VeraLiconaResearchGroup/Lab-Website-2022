@@ -18,5 +18,5 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Tiff&Erin.jpg" width="95%">
+<img src="/images/picpic/Gallery/Tiff&Erin.jpg" width="95%">
 </figure>

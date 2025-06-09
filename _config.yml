@@ -7,11 +7,11 @@
 
 # Site settings
 title: The Vera-Licona Lab
-email: your-email@domain.com
+email: veralicona@uchc.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Vera-LiconaLab.
 baseurl: ""
-url: ""
+url: "https://veraliconalab.org"
 
 include:
   - .htaccess
